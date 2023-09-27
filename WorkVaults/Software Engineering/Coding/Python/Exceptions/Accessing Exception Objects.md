@@ -1,0 +1,1 @@
+One can get a named reference to the exception object by tacking an [[as keyword]] as a [[clause]].

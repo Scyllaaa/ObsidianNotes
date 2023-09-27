@@ -1,0 +1,2 @@
+- Dynamic typing means the type of an object reference isn't resolved until the program is running, and needn't be specified up front when the program is written.
+- Python will not generally preform implicit conversion between types.

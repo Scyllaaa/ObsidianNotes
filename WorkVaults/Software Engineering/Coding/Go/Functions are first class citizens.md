@@ -1,0 +1,1 @@
+This means that **functions have the same functionality as objects**. For example, they can be assigned to variables, passed in as arguments, or returned from a function. Callback: A function passed into another function as an argument.

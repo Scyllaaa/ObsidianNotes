@@ -1,0 +1,1 @@
+- [[bufeader.NewReader().ReadString()]]

@@ -1,0 +1,3 @@
+- Code is ideally clear enough without ancillary (necessary support) explanation 
+- Sometimes you need to explain why your code is written as it is
+- Comments in python being with # and contrinue until the end of the line

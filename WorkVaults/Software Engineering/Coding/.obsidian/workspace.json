@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "4bdab64bc15fac1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c802fc42979378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "991a6d16ddfa2b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Datatypes/Dictionaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f4883901ce8b167",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5295086221047b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/Go by Example/Example Scripts/Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf8abeca05620ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "56ffa78d6588395b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4313a8ced7e39d73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "917998a2d4072dfd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18c34611265d5f0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2009b97b0ccba69d",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e7faf5487a02a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c76e3279ba460cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Go/Go by Example/Example Scripts/Hello World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3495330548d2759",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Go/Go by Example/Example Scripts/Hello World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8479f5deeb82fa2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3349340a8df17738",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Go/Go by Example/Example Scripts/Hello World.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5295086221047b82",
+  "lastOpenFiles": [
+    "Go/Go by Example/Example Scripts/Values.md",
+    "Go/Go by Example/Example Scripts/Hello World.md",
+    "Go/Go by Example/Go by Example.md",
+    "Go/Go by Example/Example Scripts",
+    "Go/Go.md",
+    "Go/Go by Example",
+    "Python/Constructors/ValueError().md",
+    "Python/Constructors/Untitled.md",
+    "Python/Keywords/raise keyword.md",
+    "Python/Keywords/Untitled.md",
+    "Python/in.md",
+    "Python/Operators/Logical Operators/Logical Operators.md",
+    "Python/Operators/Logical Operators/Untitled.md",
+    "Python/Operators/Logical Operators/not operator.md",
+    "Python/Operators/Logical Operators",
+    "Python/Operators/Untitled",
+    "Python/Modularity/Functions/repr().md",
+    "Python/repr().md",
+    "Python/Compound statements/Compound statements.md",
+    "Python/Compound statements/Untitled.md",
+    "Python/Compound statements",
+    "Python/Compund statements",
+    "Python/Untitled",
+    "Python/Constructors/Untitled",
+    "Python/clause.md",
+    "Python/Keywords/as keyword.md",
+    "Python/as keyword.md",
+    "Python/Exceptions/Accessing Exception Objects.md",
+    "Python/Exceptions/Untitled.md",
+    "Python/Keywords/pass keyword.md",
+    "Python/Virtual Enviroments/Python Virtual Enviroments.md",
+    "Go/Backward Compatibility.md",
+    "static type system.md",
+    "Python/Objects and Types/Everything is an Object.md",
+    "Python/Objects and Types/Untitled",
+    "Python/Virtual Enviroments"
+  ]
+}

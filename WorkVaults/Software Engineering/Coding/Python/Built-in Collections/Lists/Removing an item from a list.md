@@ -1,0 +1,4 @@
+- You can remove an element from a list by index using a keyword with the [[del keyword]].
+- It is also possible to remove elements from a list by value rather than by position using the `list.remove()` method. 
+	- This is the equivalent to passing the result of the index method to the [[del keyword]]
+	- This also raises a value error if a matching element is not present.

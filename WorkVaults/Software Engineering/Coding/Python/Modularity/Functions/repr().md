@@ -1,0 +1,1 @@
+The Python repr() built-in function **returns the printable representation of the specified object as a string**. Python repr() function returns a printable representation of the object by converting that object to a string.

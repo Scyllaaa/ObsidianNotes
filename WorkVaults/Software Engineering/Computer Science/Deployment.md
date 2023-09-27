@@ -1,0 +1,1 @@
+Deployment is the final step of the software getting where it is meant to be and getting installed and running. This can be emailing your zipped software to someone with written instructions of how to unzip and run, or uploading it to a web server for download, or installing it on a local server, etc.

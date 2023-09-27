@@ -1,0 +1,5 @@
+- [ ] Dumping objects from K8s clusters (e.g., `kubectl describe pod` and so on, not just looking at the summary from `kubectl get [...]`)  
+	- Rather than just report issues based on "pods not restarting" when the Lumper CRDs (`Shipment`, `UnpackedPallet`) expose very specific information about the exact package it is applying, what its attempting to apply, and when those things happened.  
+- [ ] Checking reference information for CRDs as needed (e.g., to find out what the output from `kubectl get podmonitor -o yaml` means)  
+- [ ] Exploring prior art in the form of Go packages, official ecosystem solutions (Go + K8s), community solutions ([github.com/kubernetes-sigs](http://github.com/kubernetes-sigs), etc), internal packages ([https://godoc.edge-infra.dev/pkg/edge-infra.dev/pkg/](https://godoc.edge-infra.dev/pkg/edge-infra.dev/pkg/)) and resources in the dev wiki.  
+- [ ] Ensure design and PRs mention research into prior art or existing solutions that we considered.

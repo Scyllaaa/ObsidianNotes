@@ -1,0 +1,3 @@
+Hot-plugging a device means **the device is added or removed without shutting down the operating system or powering off the system**. When you hot-plug a USB device, the device is immediately seen in the system's device hierarchy.
+
+Common examples of hot-pluggable devices include **hard disk drives and solid-state drives, which can be added to a storage system; or USB devices, mice, keyboards and printers, which can be added to a personal computer**. The defining characteristic of hot plugging is that the system is not interrupted.

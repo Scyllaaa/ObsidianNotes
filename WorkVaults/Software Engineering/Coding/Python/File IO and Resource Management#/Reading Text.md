@@ -1,0 +1,3 @@
+- `Seek` cannot move to an arbitrary offset.
+- When seeking from the beginning of the file the only legal valyes for offset are 0 and any value returned by the file's `tell()` method.
+- Any other values will result in undefined behaviour

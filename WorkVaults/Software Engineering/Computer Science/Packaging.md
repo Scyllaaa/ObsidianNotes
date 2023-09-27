@@ -1,0 +1,1 @@
+Packaging involves how you intend to transport your software (executables, libraries, resource files, folder structures, etc) to the end user. This might mean you create an installer, or just pack everything into a zip file or something. The package process gets the software ready for deployment.

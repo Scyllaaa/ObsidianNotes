@@ -1,0 +1,6 @@
+- Core standard library includes net and net/http packages 
+	- create web servers using only the standard library
+- In the concurrency library we have `goroutines`
+	- start thousands of concurrent tasks with minimal resources
+- Go has `channels` build  in that support sequencial processes
+	- Safely communicate between concurrent tasks

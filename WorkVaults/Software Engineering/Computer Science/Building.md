@@ -1,0 +1,1 @@
+Building is [[Compiling|compiling]] all of the software. The build process usually builds the main program/s as well as its libraries. The build process can include a single build like 32bit windows or all builds.

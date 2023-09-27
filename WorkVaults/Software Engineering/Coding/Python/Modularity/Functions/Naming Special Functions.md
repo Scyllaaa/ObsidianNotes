@@ -1,0 +1,6 @@
+- In Python many language features are implemented using specially named objects and functions
+- These special names generally have two leading and two trailing underscores
+- This has the benefit of making them visually distinct, easy to remember, and unlikely to collide with other names.
+- However this does make them more difficult to pronounce, which can be a problem during collaboration.
+- Some developers have opted to use the term "dunder" as a way of pronouncing special names
+	- This is a portmanteau of "double underscore"

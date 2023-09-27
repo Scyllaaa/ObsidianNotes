@@ -1,0 +1,7 @@
+- A list can be reversed by calling its `list.reverse()` method.
+- A list can be sorted in place using the `list.sort()` method.
+	- This method accepts two optional arguments, key and reverse.
+	- Reverse, when set to true, gives the list an ascending sorts
+	- The key parameter is more interesting
+	- [[Key parameter to list.sort()]] 
+- [[Reversing and sorting lists into copies]]

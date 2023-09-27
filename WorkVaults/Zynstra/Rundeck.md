@@ -1,0 +1,1 @@
+Rundeck is an open-source tool that **helps to define build, deploy and manage automation**. It provides web console, CLI tools, and a Web API. It is written in Java and allows you to run tasks across a set of nodes.

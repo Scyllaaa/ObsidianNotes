@@ -1,0 +1,2 @@
+- [[flag.String()]] - strongly types command line parameters to be passed into the script
+- [[flag.Parse()]] - parse command-line parameters and populate the variables.

@@ -1,0 +1,2 @@
+
+Xen is an open-source bare-metal hypervisor, which means it runs directly on the physical hardware and allows multiple virtual machines to run on a single host system. The hypervisor is responsible for managing resources, isolating VMs, and handling hardware virtualization.

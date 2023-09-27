@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "dd49ef97f049b553",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eefe4ae967ad965",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b83b356ef8b10e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37cf67314ea8f4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bufio.NewReader().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e78ec2ebab0a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0117ea8b24da4e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demos and Example Scripts/Command Line Application.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b9a1a77f46e2cbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "50040049710d9ffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cool features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9b7f4f285e5bab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Variables/Variable Naming Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d192adac5be3efe",
+    "type": "split",
+    "children": [
+      {
+        "id": "450992eacb011c24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "923902a543a9193a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf36e68ad3d2ae75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ec3fadaddb85aec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f28cf434b88d8d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e982bae8af42327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bddb895c9fda08c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Go Variables/Variable Naming Rules.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cc90dd39a02e852",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Go Variables/Variable Naming Rules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9242a4b2bbe2dd9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c8082a2905240ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Go Variables/Variable Naming Rules.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c9b7f4f285e5bab9",
+  "lastOpenFiles": [
+    "Cool features.md",
+    "Go Variables/Variable Naming Rules.md",
+    "Go Variables/Multiple Variable Declaration.md",
+    "Untitled.md",
+    "Go Variables",
+    "Go Comments.md",
+    "Go.md",
+    "Functions are first class citizens.md",
+    "Demos and Example Scripts/Command Line Application.md",
+    "bufio.NewReader().md",
+    "Packages/bufio/bufio.md",
+    "Packages/Go Packages.md",
+    "Keywords/defer.md",
+    "Packages/bufio",
+    "Packages/log package/log.md",
+    "Packages/log package",
+    "Packages/OS package/OS.md",
+    "Packages/flag package/flag.md",
+    "Packages/OS package",
+    "Packages/net - http package/net - https.md",
+    "Packages/flag package",
+    "Packages/net - http package",
+    "Packages/fmt package/fmt.Fprint().md",
+    "Packages/fmt package",
+    "Packages/fmt package/fmt.md",
+    "Demos and Example Scripts/Hello, World.md",
+    "go tool/go run.md",
+    "Demos and Example Scripts/Demos and Example Scripts.md",
+    "go tool",
+    "go tool/go mod.md",
+    "go tool/go tool.md",
+    "Demos and Example Scripts/Go by Example/Go by Example.md",
+    "Demos and Example Scripts/Go by Example/Example Scripts/Hello World.md",
+    "Go Crash-Course/Go Crash-Course.md",
+    "Go Crash-Course",
+    "Demos and Example Scripts"
+  ]
+}

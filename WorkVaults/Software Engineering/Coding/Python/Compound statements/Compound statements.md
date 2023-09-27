@@ -1,0 +1,5 @@
+https://docs.python.org/3/reference/compound_stmts.html
+
+Compound statements contain (groups of) other statements; they affect or control the execution of those other statements in some way. In general, compound statements span multiple lines, although in simple incarnations a whole compound statement may be contained in one line.
+
+The [`if`](https://docs.python.org/3/reference/compound_stmts.html#if), [`while`](https://docs.python.org/3/reference/compound_stmts.html#while) and [`for`](https://docs.python.org/3/reference/compound_stmts.html#for) statements implement traditional control flow constructs. [`try`](https://docs.python.org/3/reference/compound_stmts.html#try) specifies exception handlers and/or cleanup code for a group of statements, while the [`with`](https://docs.python.org/3/reference/compound_stmts.html#with) statement allows the execution of initialization and finalization code around a block of code. Function and class definitions are also syntactically compound statements.

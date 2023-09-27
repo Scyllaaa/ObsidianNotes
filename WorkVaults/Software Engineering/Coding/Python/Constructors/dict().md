@@ -1,0 +1,2 @@
+- We can use the `dict()` constructor to convert from an iterable series of key-value pairs stored in tuples.
+- The items in a dictionary are not stored in any particular order. So long as the keys are legitimate Python identifiers, it's even possible to create a dictionary from keyword arguments passed to the dict.

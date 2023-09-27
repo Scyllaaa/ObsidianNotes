@@ -1,0 +1,4 @@
+- **Initialization of objects**: Constructors are used to initialize the objects of a class. They allow you to set default values for attributes or properties, and also allow you to initialize the object with custom data.
+- **Easy to implement:** Constructors are easy to implement in Python, and can be defined using the `__init__()` method.
+- Better readability: Constructors improve the readability of the code by making it clear what values are being initialized and how they are being initialized.
+- **Encapsulation**: Constructors can be used to enforce encapsulation, by ensuring that the object’s attributes are initialized correctly and in a controlled manner.

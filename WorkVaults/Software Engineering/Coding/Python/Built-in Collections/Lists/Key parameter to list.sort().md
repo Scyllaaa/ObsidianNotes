@@ -1,0 +1,2 @@
+- Can be any callable object that accepts a single parameter. This is then used to extract a key from each item.
+- The items will then be sorted according the the relative ordering of these keys.

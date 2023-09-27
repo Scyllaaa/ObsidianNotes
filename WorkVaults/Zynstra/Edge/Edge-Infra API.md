@@ -1,0 +1,1 @@
+- Used by Operator to define new store

@@ -1,0 +1,1 @@
+- [[os.Open]] - open a named file for reading

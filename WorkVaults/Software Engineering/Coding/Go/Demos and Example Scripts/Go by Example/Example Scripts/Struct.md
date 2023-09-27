@@ -1,0 +1,1 @@
+Can associate any other data types

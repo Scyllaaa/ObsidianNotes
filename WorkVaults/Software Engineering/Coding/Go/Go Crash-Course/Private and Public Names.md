@@ -1,0 +1,1 @@
+Go handles private/public names by convention. Anything starting with a capital letter - except for package names - is public while anything starting with a lower-case letter is private. When importing a package, only the public parts of it are accessible.

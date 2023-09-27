@@ -1,0 +1,1 @@
+- A no-op with the only purpose of allowing the construction of syntactically permissible blocks that are semantically empty.

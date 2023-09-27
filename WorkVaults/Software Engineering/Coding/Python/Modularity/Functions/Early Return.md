@@ -1,0 +1,3 @@
+- You can return early from a function by providing the [[return keyword]] with no parameters
+- Both the `return` statement without a parameter as well as the implicit return at the end of a function actually causes the function to return `None`. 
+- However the [[REPL]] does not display `None` results, so we don't see them printed. 

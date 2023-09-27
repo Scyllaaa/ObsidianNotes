@@ -1,0 +1,1 @@
+We can use the type() and dir() functions to learn about the attributes of any object in Python.

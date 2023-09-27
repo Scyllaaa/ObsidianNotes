@@ -1,0 +1,2 @@
+- Control flow is easier to see in a graphical debbugger.
+- Lazy computation can result in complex workflow control. Forced evaluation can simplify things during development.

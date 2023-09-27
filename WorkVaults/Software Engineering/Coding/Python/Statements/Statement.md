@@ -1,0 +1,1 @@
+A statement will often begin with a [[Python Keywords|keyword]] such as, for , while , break , import . A statement might also be a call to a built-in function, such as, print . So, a keyword will be a part of or often begin a statement.
